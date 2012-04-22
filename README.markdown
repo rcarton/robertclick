@@ -1,8 +1,10 @@
 
 
   Robertclick
--------------------------------------
+================
+
 github: https://github.com/rcarton/robertclick
+
 author: Rémi Carton (http://troebr.net)
 
 Robertclick is a jquery click handler providing alternative click callbacks
@@ -13,10 +15,12 @@ to the default javascript events, and noticeably:
  - the 'dragclick' is triggered after a mouse displacement (default: 10px)
 
 requirements:
+--------------
  - jquery >= 1.7
  
  
 license: 
+----------
   
   MIT license
   Copyright (C) <year> <copyright holders>
