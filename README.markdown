@@ -10,9 +10,9 @@ author: Rémi Carton (http://troebr.net)
 Robertclick is a jquery click handler providing alternative click callbacks
 to the default javascript events, and noticeably:
 
- - the 'dblclick' does not trigger the click event
- - the 'longclick' is triggered after a given delay (default: 300ms)
- - the 'dragclick' is triggered after a mouse displacement (default: 10px)
+ - 'dblclick' does not trigger the click event
+ - 'longclick' is triggered after a given delay (default: 300ms)
+ - 'dragclick' is triggered after a mouse displacement (default: 10px)
 
 requirements:
 --------------
@@ -23,7 +23,7 @@ license:
 ----------
   
   MIT license
-  Copyright (C) <year> <copyright holders>
+  Copyright (C) 2012, Rémi Carton
 
   Permission is hereby granted, free of charge, to any person obtaining a copy of this
   software and associated documentation files (the "Software"), to deal in the Software
